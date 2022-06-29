@@ -1165,7 +1165,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 216.7856 114.3 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 200.025 120.015 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1U" (id 2) (at 200.025 120.015 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 200.025 120.015 0)
@@ -1651,7 +1651,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 201.5456 114.3 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 184.785 120.015 0)
+    (property "Footprint" "MX_Alps_Hybrid:MX-1U" (id 2) (at 184.785 120.015 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 184.785 120.015 0)
@@ -1816,10 +1816,10 @@
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/c737769b-166a-4ea4-8d01-fd7d7d15ed2b"
-      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/16d21747-c2b1-4e12-9fda-e6b266cbb054"
-      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U")
     )
     (path "/7cefd24c-42cf-4fe8-bdf0-77759279f9da"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
